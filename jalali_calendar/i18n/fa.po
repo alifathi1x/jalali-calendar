@@ -1,0 +1,694 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* jalali_calendar
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e-20240719\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-16 10:59+0000\n"
+"PO-Revision-Date: 2024-09-16 10:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.sale_portal_my_orders_inherit_sale_l10n
+msgid "&amp;nbsp;"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/sale_portal.xml:0
+#, python-format
+msgid "&nbsp;"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+msgid ""
+"<br/>\n"
+"                                                <span class=\"text-muted\">Completed</span>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+msgid ""
+"<br/>\n"
+"                                                <span class=\"text-muted\">Registered</span>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+msgid ""
+"<br/>\n"
+"                                          <span class=\"text-muted\">Average Duration</span>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.view_event_kanban_js_inherit
+msgid "<i class=\"fa fa-group mt-1 me-2 text-center\" title=\"Attendees\"/>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.view_event_kanban_js_inherit
+msgid "<i class=\"fa fa-map-marker mt-1 me-2 text-center ps-1\" title=\"Location\"/>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.view_event_kanban_js_inherit
+msgid "<i class=\"oi oi-arrow-right me-2 o_event_fontsize_09\" title=\"End date\"/>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+msgid "<span class=\"mx-1\">-</span>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+msgid "<span class=\"text-muted\">Completed</span>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+msgid "<span class=\"text-muted\">Questions</span>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+msgid "<span class=\"text-muted\">Registered</span>"
+msgstr ""
+
+#. module: jalali_calendar
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+msgid "<span class=\"text-muted\">Success</span>"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/activity_mail_duedate.xml:0
+#, python-format
+msgid "Activity type"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "April_4"
+msgstr "تیر"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "Archived"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/activity_mail_duedate.xml:0
+#, python-format
+msgid "Assigned to"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/event_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/event_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.view_event_kanban_js_inherit
+#, python-format
+msgid "Attendees"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "August_8"
+msgstr "آبان"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#, python-format
+msgid "Average Duration"
+msgstr ""
+
+#. module: jalali_calendar
+#: model:ir.model,name:jalali_calendar.model_base
+msgid "Base"
+msgstr "پایه"
+
+#. module: jalali_calendar
+#: model:ir.model,name:jalali_calendar.model_base_import_import
+msgid "Base Import"
+msgstr "وارد کردن پایه"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "Certified"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/gant_calendar.xml:0
+#, python-format
+msgid "Collapse rows"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "Color"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/base_import.py:0
+#: code:addons/jalali_calendar/models/base_import.py:0
+#, python-format
+msgid "Column %s contains incorrect values. Error in line %d: %s"
+msgstr ""
+
+#. module: jalali_calendar
+#: model:ir.model,name:jalali_calendar.model_res_company
+msgid "Companies"
+msgstr "شرکت‌ها"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#, python-format
+msgid "Completed"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/format_utils.js:0
+#, python-format
+msgid "Count"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/activity_mail_duedate.xml:0
+#, python-format
+msgid "Created"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Day"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "December_12"
+msgstr "اسفند"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "Delete"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/activity_mail_duedate.xml:0
+#, python-format
+msgid "Due on"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "Edit Survey"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "End Live Session"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/event_kanban.xml:0
+#, python-format
+msgid "End date"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/base_import.py:0
+#: code:addons/jalali_calendar/models/base_import.py:0
+#, python-format
+msgid "Error Parsing Date [%s:L%d]: %s"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/gant_calendar.xml:0
+#, python-format
+msgid "Expand rows"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "February_2"
+msgstr "اردیبهشت"
+
+#. module: jalali_calendar
+#: model:ir.model,name:jalali_calendar.model_ir_http
+msgid "HTTP Routing"
+msgstr "مسیریابی HTTP"
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/ir_sequence.py:0
+#, python-format
+msgid "Invalid prefix or suffix for sequence '%s'"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "January_1"
+msgstr "فروردین"
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "July_7"
+msgstr "مهر"
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "June_6"
+msgstr "شهریور"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/event_kanban.xml:0
+#, python-format
+msgid "Location"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "March_3"
+msgstr "خرداد"
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "May_5"
+msgstr "مرداد"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Month"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/gant_calendar.xml:0
+#, python-format
+msgid "Next"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Next century"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Next decade"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Next month"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Next year"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "November_11"
+msgstr "بهمن"
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "October_10"
+msgstr "دی"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "Passed"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/gant_calendar.xml:0
+#, python-format
+msgid "Previous"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Previous Period"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Previous Year"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Previous century"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Previous decade"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Previous month"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Previous year"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Q1"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Q2"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Q3"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Q4"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Quarter"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#, python-format
+msgid "Questions"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#, python-format
+msgid "Registered"
+msgstr ""
+
+#. module: jalali_calendar
+#: model:ir.model,name:jalali_calendar.model_sale_order
+msgid "Sales Order"
+msgstr "سفارش فروش"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "See results"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Select century"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Select decade"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Select month"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Select year"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "September_9"
+msgstr "آذر"
+
+#. module: jalali_calendar
+#: model:ir.model,name:jalali_calendar.model_ir_sequence
+msgid "Sequence"
+msgstr "دنباله"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "Share"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "Start Live Session"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#, python-format
+msgid "Success"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#: code:addons/jalali_calendar/models/res_company.py:0
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "Tax return for %s"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/res_company.py:0
+#, python-format
+msgid "Tax return from %s to %s"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#: model_terms:ir.ui.view,arch_db:jalali_calendar.survay_date_view_kanban_inherit
+#, python-format
+msgid "Test"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/gant_calendar.xml:0
+#: code:addons/jalali_calendar/static/src/xml/gant_calendar.xml:0
+#: code:addons/jalali_calendar/static/src/xml/gant_calendar.xml:0
+#: code:addons/jalali_calendar/static/src/xml/gant_calendar.xml:0
+#, python-format
+msgid "Today"
+msgstr ""
+
+#. module: jalali_calendar
+#: model:ir.model,name:jalali_calendar.model_res_users
+msgid "User"
+msgstr "کاربر"
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Week"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-python
+#: code:addons/jalali_calendar/models/models.py:0
+#, python-format
+msgid ""
+"Week %(weeknumber)s\n"
+"%(week_start)s - %(week_end)s"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/jdatetime.js:0
+#, python-format
+msgid "Week numbers"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/js/searchbar_utils.js:0
+#, python-format
+msgid "Year"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/activity_mail_duedate.xml:0
+#, python-format
+msgid "by"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/event_kanban.xml:0
+#, python-format
+msgid "event.event"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/event_kanban.xml:0
+#, python-format
+msgid "event.event.kanban"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/event_kanban.xml:0
+#, python-format
+msgid "primary"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#, python-format
+msgid "survey.survey"
+msgstr ""
+
+#. module: jalali_calendar
+#. odoo-javascript
+#: code:addons/jalali_calendar/static/src/xml/survay_kanban.xml:0
+#, python-format
+msgid "survey.survey.view.kanban"
+msgstr ""

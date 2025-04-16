@@ -1,0 +1,16 @@
+CREATE OR REPLACE FUNCTION get_quarter(year_month TEXT)
+RETURNS INT AS $$
+DECLARE
+    month INT;
+BEGIN
+    month := CAST(SUBSTRING(year_month FROM 6 FOR 2) AS INT);
+    CASE
+        WHEN month BETWEEN 1 AND 3 THEN RETURN 1;
+        WHEN month BETWEEN 4 AND 6 THEN RETURN 2;
+        WHEN month BETWEEN 7 AND 9 THEN RETURN 3;
+        WHEN month BETWEEN 10 AND 12 THEN RETURN 4;
+        ELSE RETURN 0;
+    END CASE;
+END;
+$$
+ LANGUAGE plpgsql;

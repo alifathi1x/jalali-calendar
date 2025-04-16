@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="sale_order_portal_content_inherit_sale_l10n" name="Orders" inherit_id="sale.sale_order_portal_content">
+        <xpath expr="//span[@t-field='sale_order.date_order']" position="replace">
+            <p t-esc="sale_order.convert_jalali('date_order')"/>
+        </xpath>
+        <xpath expr="//span[@t-field='sale_order.validity_date']" position="replace">
+            <p t-esc="sale_order.convert_jalali('validity_date')"/>
+        </xpath>
+    </template>
+
+
+    <template id="sale_portal_my_orders_inherit_sale_l10n" name="My Sales Orders" inherit_id="sale.portal_my_orders">
+        <xpath expr="//span[@t-field='order.date_order']" position="replace">
+            <span t-field="order.date_order"/>&amp;nbsp;
+        </xpath>
+    </template>
+
+  
+</odoo>
